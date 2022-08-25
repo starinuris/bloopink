@@ -6,6 +6,10 @@ h1 {
     background-color: rgb(255, 255, 255);
     padding: 10px 0;
   }
+
+p {
+    text-align: center;
+}
   
   .marker {
     width: 200px;
